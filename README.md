@@ -3,7 +3,7 @@
 
 - I'm a technical writer working on Android.
 
-- I also do development work in JavaScript, TypeScript, and Python.
+- I also develop software in JavaScript, TypeScript, and Python.
 
 <!---
 JonEckenrode/JonEckenrode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
