@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @JonEckenrode
-- 📫 email: joneckenrode@google.com
+👋 Hi, I’m @JonEckenrode
+📫 email: joneckenrode@google.com
 
-- I'm a technical writer working on Android.
+## Technical writer at Google
 
-- I also develop software in JavaScript, TypeScript, and Python.
+I create documentation for Android, focusing on large screen and adaptive app guidance. I also create tools and VS Code extension using JavaSCript, TypeScript, and Python to streamline documentation workflows.
 
-<!---
-JonEckenrode/JonEckenrode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have diverse career experience spanning technical writing, software development, and multimedia creation in the healthcare, finance, and e-learning industries.
+
+## 🔧 Skills
+
+- Technical writing and documentation
+- API documentation
+- JavaScript/TypeScript
+- Python
+- Android development
