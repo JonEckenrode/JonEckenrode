@@ -1,6 +1,6 @@
 ## Technical writer at Google
 
-Hi, I’m @JonEckenrode.
+Hi, I’m Jon Eckenrode.
 
 I create documentation for Android, focusing on large screen and adaptive app guidance. I also create software tools to streamline documentation workflows.
 
