@@ -1,4 +1,4 @@
-## Technical writer at Google
+## 🖊️ Technical writer at Google
 
 Hi, I’m Jon Eckenrode.
 
