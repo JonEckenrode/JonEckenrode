@@ -1,6 +1,6 @@
 ## Technical writer at Google
 
-👋 Hi, I’m @JonEckenrode
+👋 Hi, I’m @JonEckenrode<br>
 📫 email: joneckenrode@google.com
 
 I create documentation for Android, focusing on large screen and adaptive app guidance. I also create tools and VS Code extension using JavaSCript, TypeScript, and Python to streamline documentation workflows.
