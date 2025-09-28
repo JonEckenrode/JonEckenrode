@@ -2,7 +2,7 @@
 
 📫 email: joneckenrode@google.com
 
-Hi, I’m @JonEckenrode<
+Hi, I’m @JonEckenrode.
 
 I create documentation for Android, focusing on large screen and adaptive app guidance. I also create tools and VS Code extension using JavaSCript, TypeScript, and Python to streamline documentation workflows.
 
